@@ -1,0 +1,27 @@
+body  {
+    background: url("https://images.unsplash.com/photo-1487147264018-f937fba0c817?dpr=1&auto=format&fit=crop&w=376&h=564&q=60&cs=tinysrgb&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+     background-size: 1600px 1500px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=button]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100%
+}

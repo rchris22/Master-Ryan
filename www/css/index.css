@@ -1,0 +1,29 @@
+body {
+
+  background-color: #E0FFFF}
+
+h1 {
+    background-color: #FFFAF0;
+}
+
+/* Full-width input fields */
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: ;
+    color: block;
+}
+input[type=button]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100%
+}
